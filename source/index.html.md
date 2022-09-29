@@ -7,7 +7,6 @@ language_tabs:
 
 toc_footers:
   - <a href='https://alptr.com/en/register/'>Sign Up for a Developer Key</a>
-  - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
 includes:
   - errors
